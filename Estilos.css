@@ -1,9 +1,11 @@
+/* Normalización CSS */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
 }
 
+/* Estilo para el Encabezado */
 header {
     background-color: #3498db;
     color: #fff;
@@ -11,6 +13,7 @@ header {
     padding: 20px;
 }
 
+/* Estilo para la Barra de Navegación */
 nav {
     background-color: #333;
     color: #fff;
@@ -18,23 +21,27 @@ nav {
     padding: 10px;
 }
 
+/* Estilo para la Lista de Navegación */
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
+/* Estilo para los Elementos de la Lista */
 li {
     display: inline;
     margin-right: 20px;
 }
 
+/* Estilo para Enlaces */
 a {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
 }
 
+/* Estilo para Secciones */
 section {
     margin: 20px;
 }
