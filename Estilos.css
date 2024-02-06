@@ -44,4 +44,23 @@ a {
 /* Estilo para Secciones */
 section {
     margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px; /* Agrega bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega sombra */
 }
+
+/* Estilo para Imágenes en Secciones */
+section img {
+    max-width: 100%;
+    border-radius: 8px; /* Agrega bordes redondeados a las imágenes */
+}
+
+/* Estilo para el Pie de Página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
